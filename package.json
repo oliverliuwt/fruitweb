@@ -1,0 +1,30 @@
+{
+  "name": "php-project",
+  "version": "1.0.0",
+  "description": "php project using bootstrap v4",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.1",
+    "trumbowyg": "^2.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johannesmu/adv-web-b18.git"
+  },
+  "keywords": [
+    "php",
+    "bootstrap"
+  ],
+  "author": "johannesmu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johannesmu/adv-web-b18/issues"
+  },
+  "homepage": "https://github.com/johannesmu/adv-web-b18#readme"
+}

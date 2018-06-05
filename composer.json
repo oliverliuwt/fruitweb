@@ -1,0 +1,16 @@
+{
+    "name": "website/webstore",
+    "description": "webstore",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "4.0.0",
+        "components/jquery": "^3.3"
+    },
+    "license": "ISD",
+    "authors": [
+        {
+            "name": "johannes",
+            "email": "johannes.muljana@ait.nsw.edu.au"
+        }
+    ]
+}
