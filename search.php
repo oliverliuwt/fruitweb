@@ -29,7 +29,6 @@ $page_title = $search_words;
           ($results_count == 1 ? "product" : "products")  . "</p>
           </div>";
           
-          //loop through the result
           foreach( $results as $product ){
             $id = $product["id"];
             $name = $product["name"];
