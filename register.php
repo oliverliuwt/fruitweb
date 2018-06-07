@@ -2,9 +2,8 @@
 include('autoloader.php');
 session_start();
 
-//check for POST request
 if( $_SERVER['REQUEST_METHOD'] == 'POST'){
-  //receive variables from form
+
   $username = $_POST["username"];
   $email = $_POST["email"];
   $password = $_POST["password"];
